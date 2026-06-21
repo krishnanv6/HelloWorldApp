@@ -1,0 +1,7 @@
+C:\Users\v2kri\OneDrive\ai\Deccansoft\Github Actions\ProjectOutput\HelloWorldApp.exe
+C:\Users\v2kri\OneDrive\ai\Deccansoft\Github Actions\ProjectOutput\appsettings.Development.json
+C:\Users\v2kri\OneDrive\ai\Deccansoft\Github Actions\ProjectOutput\appsettings.json
+C:\Users\v2kri\OneDrive\ai\Deccansoft\Github Actions\ProjectOutput\HelloWorldApp.dll
+C:\Users\v2kri\OneDrive\ai\Deccansoft\Github Actions\ProjectOutput\HelloWorldApp.deps.json
+C:\Users\v2kri\OneDrive\ai\Deccansoft\Github Actions\ProjectOutput\HelloWorldApp.runtimeconfig.json
+C:\Users\v2kri\OneDrive\ai\Deccansoft\Github Actions\ProjectOutput\HelloWorldApp.pdb
